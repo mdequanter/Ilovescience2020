@@ -1,0 +1,6 @@
+id;hexId;x;y;z;ip;mac;chain info;neighbors;hardware;firmware;warnings;labels;in use
+27157;0x6a15;5550;2660;990;;;;3;0x2;0x20;;;true
+27169;0x6a21;0;0;990;;;;3;0x2;0x20;;;true
+27192;0x6a38;5550;-109;990;;;;3;0x2;0x20;;;true
+27200;0x6a40;0;2660;990;;;;3;0x2;0x20;;;true
+27223;0x6a57;;;;;;;1;0x2;0x20;No position;;false
